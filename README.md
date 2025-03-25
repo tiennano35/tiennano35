@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-I am a 1rd year student majoring in Microelectronics and Nanotechnology MS2 - HUST
+I am a 1st year student majoring in Microelectronics and Nanotechnology MS2 - HUST
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngtien14) 
